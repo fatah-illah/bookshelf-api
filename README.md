@@ -23,3 +23,12 @@ Ensure you have Node.js and npm installed on your machine.
 
 ```bash
 npm install
+
+This will install all necessary dependencies.
+
+## Running the Server
+
+To run the server in production mode:
+
+```bash
+npm start
